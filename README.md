@@ -18,10 +18,67 @@ A simple and fun two-player Tic Tac Toe game that runs in the terminal using Nod
 ## 🖥️ Demo
 
 ```bash
-   🐐 | 🍇 | 🐐
-   -------------
-   🍇 | 🐐 |  
-   -------------
-     |  🍇 | 🐐
 
-   Player 🐐 wins!
+      |   |  
+    ---------
+      |   |  
+    ---------
+      |   |  
+  
+Player 🐐, enter your move (0-8): 0
+
+    🐐 |   |  
+    ---------
+      |   |  
+    ---------
+      |   |  
+  
+Player 🍇, enter your move (0-8): 3
+
+    🐐 |   |  
+    ---------
+    🍇 |   |  
+    ---------
+      |   |  
+  
+Player 🐐, enter your move (0-8): 2
+
+    🐐 |   | 🐐
+    ---------
+    🍇 |   |  
+    ---------
+      |   |  
+  
+Player 🍇, enter your move (0-8): 1
+
+    🐐 | 🍇 | 🐐
+    ---------
+    🍇 |   |  
+    ---------
+      |   |  
+  
+Player 🐐, enter your move (0-8): 4
+
+    🐐 | 🍇 | 🐐
+    ---------
+    🍇 | 🐐 |  
+    ---------
+      |   |  
+  
+Player 🍇, enter your move (0-8): 7
+
+    🐐 | 🍇 | 🐐
+    ---------
+    🍇 | 🐐 |  
+    ---------
+      | 🍇 |  
+  
+Player 🐐, enter your move (0-8): 8
+
+    🐐 | 🍇 | 🐐
+    ---------
+    🍇 | 🐐 |  
+    ---------
+      | 🍇 | 🐐
+  
+Player 🐐 wins!
